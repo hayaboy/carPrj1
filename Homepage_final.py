@@ -13,8 +13,9 @@ st.set_page_config(page_title="A회사 렌터카 사업 전략 제안", layout="
 
 # DB 정보 정의, 엔진 생성
 db_user = "root"
-db_password = "12341234"
-db_host = "localhost"
+# db_password = "12341234"
+db_password = "1111"
+db_host = "125.132.237.54"
 db_port = "3306"
 db_name = "project1db"
 
